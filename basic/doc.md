@@ -204,6 +204,9 @@
 ## Python - Loops
 
 > Python programming language provides following types of loops to handle looping requirements.
+
+![](image/loops.png)
+
 >   * while loop: Repeats a statement or group of statements while a given condition is TRUE. It tests the condition before executing the loop body.
 
 ```
